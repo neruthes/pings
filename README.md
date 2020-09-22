@@ -31,3 +31,4 @@ Published under GNU AGPL 3.0.
 ## Future Plans
 
 - Stop depending on `request` package.
+- Explicit proxy designation.
