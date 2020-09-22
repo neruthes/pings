@@ -9,7 +9,7 @@ This is un simple tool in Nodejs for making network tests without QoS priority. 
 ## Installation
 
 ```
-npm i pings
+npm install -g pings
 ```
 
 ## Usage
