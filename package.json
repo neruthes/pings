@@ -1,7 +1,7 @@
 {
   "name": "pings",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.2",
+  "description": "Ping over HTTPS",
   "main": "index.js",
   "bin": {
     "pings": "index.js"

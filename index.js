@@ -1,3 +1,5 @@
+#!/bin/node
+
 const request = require('request');
 
 const givenDomain = process.argv[2];
