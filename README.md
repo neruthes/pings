@@ -27,3 +27,7 @@ Each request is distinguished by un timestamp in the URL, so you do not need to 
 Copyright (c) 2020 Neruthes (i@neruthes.xyz).
 
 Published under GNU AGPL 3.0.
+
+## Future Plans
+
+- Stop depending on `request` package.
