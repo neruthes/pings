@@ -11,12 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://neruthes:36611146e94e6d1b175a032237cac85045f5fe57@github.com/neruthes/pings.git"
+    "url": "git+https://@github.com/neruthes/pings.git"
   },
   "author": "Neruthes <i@neruthes.xyz>",
   "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/neruthes/pings/issues"
   },
-  "homepage": "https://github.com/neruthes/pings#readme"
+  "homepage": "https://github.com/neruthes/pings#readme",
+  "dependencies": {
+    "request": "*"
+  }
 }
